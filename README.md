@@ -14,10 +14,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ranjithpandi85-debug&layout=compact&theme=radical)
 
-## 🌐 Connect With Me  
-- 💼 [LinkedIn](https://www.linkedin.com) *(update with your real profile link)*  
-- 📧 Email: ranjithpandi85@gmail.com
-  Project: Image Enhancement Using MATLAB
+## 🌐 Connect With Me
+Project: Image Enhancement Using MATLAB
 Developed an image enhancement system using MATLAB to improve image clarity and contrast. The project uses techniques such as histogram equalization, contrast stretching, noise reduction, and edge enhancement to produce high-quality output images. Implemented using MATLAB scripts (.m) and a live script (.mlx) with visual results saved as PNG.
 Tools/Technologies: MATLAB, Image Processing Toolbox
 Techniques Used: Histogram equalization, noise removal, contrast adjustment, edge enhancement
