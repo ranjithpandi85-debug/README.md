@@ -1,17 +1,14 @@
-# Hi there 👋, I'm Ranjith Kumar  
+# Hi there 👋, I'm Ranjith K
 
 ## 🚀 About Me  
 - 🎓 ECE graduate passionate about **Audio Visual (AV) Engineering**  
-- 💻 Skilled in **Python, Crestron, Extron, CTS (Certified Technology Specialist), Dante**  
-- 🔧 1+ year of experience as an **AV Technician**  
+- 💻 Skilled in **Python,Dante**  
 - 🌍 Exploring opportunities in **Singapore & Global AV Industry**  
 
 ## 🛠️ Skills & Tools  
 - **Programming:** Python  
-- **AV Certifications:** CTS, CTS-I, Dante Level 1  
-- **AV Systems:** Crestron, Extron, DSP, HDMI, Infrastructure Design  
-- **Other Tools:** AutoCAD, KiCad (basic)  
-
+- **AV Certifications:** Dante Level 1  
+- **AV Systems:** DSP, HDMI, Infrastructure Design   
 ## 📊 GitHub Stats  
 ![Ranjith's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranjithpandi85-debug&show_icons=true&theme=radical)
 
