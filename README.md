@@ -21,4 +21,4 @@
 
 ---
 
-⭐️ From [Ranjith Kumar](https://github.com/ranjithpandi85-debug)
+⭐️ From [Ranjith K](https://github.com/ranjithpandi85-debug)
